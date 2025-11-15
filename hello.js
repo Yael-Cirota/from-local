@@ -11,6 +11,11 @@ const b = () => {
 
 
 
+const e = () => {
+   alert("e function")
+}
+
+   
 const d = () => {
     confirm("are you sure?")
 const c = () => {
